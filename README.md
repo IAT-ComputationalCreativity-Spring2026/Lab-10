@@ -1,6 +1,6 @@
-# IAT 460 — Week 11 Lab: Genetic Algorithms
+# IAT 460 — Week 10 Lab: Genetic Algorithms
 
-Welcome to the Week 11 lab for **IAT 460 - Computational Creativity**! This repository contains 4 lab notebooks.
+Welcome to the Week 10 lab for **IAT 460 - Computational Creativity**! This repository contains 4 lab notebooks.
 
 ---
 
@@ -23,8 +23,8 @@ In this lab, you will get hands-on experience with:
 If you are familiar with github, you can clone this repo and run the notebook in your IDE or tool of choice.
 
 ```bash
-git clone https://github.com/IAT-ComputationalCreativity-Spring2026/Lab-11.git
-cd Lab-11
+git clone https://github.com/IAT-ComputationalCreativity-Spring2026/Lab-10.git
+cd Lab-10
 ```
 
 Create a python virtual environmment (Python 3.12 recommended).
@@ -32,7 +32,7 @@ Create a python virtual environmment (Python 3.12 recommended).
 ```bash
 python3 -m venv .venv
 # or
-conda create -n iat460lab11 python=3.12
+conda create -n iat460lab10 python=3.12
 ```
 
 ### Option 2
