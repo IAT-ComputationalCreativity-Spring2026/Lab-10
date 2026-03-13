@@ -1,4 +1,4 @@
-# IAT 460 — Week 11 Lab: Generative Grammars, L-Systems and Markov models
+# IAT 460 — Week 11 Lab: Genetic Algorithms
 
 Welcome to the Week 11 lab for **IAT 460 - Computational Creativity**! This repository contains 4 lab notebooks.
 
