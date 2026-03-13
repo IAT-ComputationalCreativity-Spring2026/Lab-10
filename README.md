@@ -38,7 +38,7 @@ conda create -n iat460lab11 python=3.12
 ### Option 2
 
 The provided notebook is accessible in Google Colab and requires no setup:
-- [basic]()
-- [image]()
-- [music]()
-- [interactive]()
+- [basic](https://colab.research.google.com/github/IAT-ComputationalCreativity-Spring2026/Lab-11/blob/main/DEAP_basics.ipynb)
+- [image](https://colab.research.google.com/github/IAT-ComputationalCreativity-Spring2026/Lab-11/blob/main/DEAP_image_evolution.ipynb)
+- [music](https://colab.research.google.com/github/IAT-ComputationalCreativity-Spring2026/Lab-11/blob/main/DEAP_interactive_images.ipynb)
+- [interactive](https://colab.research.google.com/github/IAT-ComputationalCreativity-Spring2026/Lab-11/blob/main/DEAP_music_evolution.ipynb)
